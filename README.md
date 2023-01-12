@@ -1,5 +1,8 @@
 # objek_wisata
 
+### Screenshoot Aplikasi
+
+<img src="https://user-images.githubusercontent.com/118190360/212028627-b82cbc31-924f-4db9-b54c-e2627a87aa20.png" width="600px">
 A new Flutter project.
 
 ## Getting Started
